@@ -9,4 +9,6 @@
   - Best Innovation Award: honorable mention     
   - Best Game Design Award: honorable mention  
   
+![Award](https://github.com/punkfulw/Parkour_Game_GOOP/blob/main/img/得獎.png)
+
 > **Tool:**     Unity Engine, C#,
