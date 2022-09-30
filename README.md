@@ -12,4 +12,7 @@
   
 ![Award](https://github.com/punkfulw/Parkour_Game_GOOP/blob/main/img/得獎.png)
 
+![Skill](https://github.com/punkfulw/Parkour_Game_GOOP/blob/main/img/Skill.png)
+
 > **Tool:**     Unity Engine, C#,
+
